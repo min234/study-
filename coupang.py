@@ -30,3 +30,6 @@ for item in items :
 
 
     print(name,price,rate,rate_cut)
+
+    import selenium
+print(selenium.__version__)
